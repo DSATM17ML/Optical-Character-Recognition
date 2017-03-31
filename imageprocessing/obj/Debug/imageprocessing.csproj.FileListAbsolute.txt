@@ -1,0 +1,17 @@
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csprojResolveAssemblyReference.cache
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Form1.resources
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Properties.Resources.resources
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.GenerateResource.Cache
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe.config
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\imageprocessing.pdb
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.exe
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.pdb
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\AForge.Controls.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\AForge.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\AForge.Imaging.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\AForge.Math.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\DockingToolbar.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\SourceGrid2.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\SourceLibrary.dll
+C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\WeifenLuo.WinFormsUI.dll
