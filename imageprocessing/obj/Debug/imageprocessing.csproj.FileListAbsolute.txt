@@ -1,4 +1,3 @@
-C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csprojResolveAssemblyReference.cache
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Form1.resources
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Properties.Resources.resources
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.GenerateResource.Cache
@@ -15,3 +14,7 @@ C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageproc
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\SourceGrid2.dll
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\SourceLibrary.dll
 C:\Users\D E L L\Documents\Visual Studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\WeifenLuo.WinFormsUI.dll
+C:\Users\D E L L\documents\visual studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\Accord.dll.config
+C:\Users\D E L L\documents\visual studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\Accord.dll
+C:\Users\D E L L\documents\visual studio 2017\Projects\imageprocessing\imageprocessing\bin\Debug\Accord.xml
+C:\Users\D E L L\documents\visual studio 2017\Projects\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csprojResolveAssemblyReference.cache
